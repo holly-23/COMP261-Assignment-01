@@ -1,6 +1,6 @@
 # COMP261-Assignment-01
 
-This is the my completed project for the first assignment of **Computer Program Design 261** at **Victoria University of Wellington**.
+This is my completed project for the first assignment "The Journey Planner Network" of **Computer Program Design 261** at **Victoria University of Wellington**.
 
 This Java project parses network data to display a busstop network and allows the user to view and search the data. 
 
